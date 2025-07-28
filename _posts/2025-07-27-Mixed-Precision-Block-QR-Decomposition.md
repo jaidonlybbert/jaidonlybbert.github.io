@@ -11,6 +11,4 @@ This was my final project for my Master's in Electrical Engineering at the Unive
 
 We developed our algorithm targetting a PC with a GeForce RTX 2070 and Ubuntu installed. The algorithm was developed "from scratch" without the use of BLAS libraries (e.g. Cutlass). Here's a clip from one of our presentations, where I explain the mathematics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID"
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfnWfB8IjI4?si=5o4oonn5AJcG-vv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
