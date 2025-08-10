@@ -2,9 +2,9 @@
 layout: post
 title: Mixed-precision Block QR Decomposition with CUDA
 subtitle: University of Washington ECE Master's Project with Amazon Lab126
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/UW-purple.jpg
+thumbnail-img: /assets/img/UW-logo.png
+share-img: /assets/img/UW-purple.jpg
 ---
 
 This was my final project for my Master's in Electrical Engineering at the University of Washington, completed in 2024. I worked with a group of 6 graduate students to implement a parallel QR decomposition algorithm using CUDA. The project was a collaboration with Amazon Lab126 for development of Simultaneous Localization and Mapping (SLAM) for robotics. The QR decomposition can be used for least-squares optimization to solve for robot pose, a key part of SLAM algorithms.
