@@ -9,4 +9,4 @@ share-img: /assets/img/UW-purple.png
 
 These are some pictures from a series of classes I took during my Master's program on GPU-accelerated computation and visualization. I developed a PBR renderer in OpenGL using C++. I implemented Phong, Garaud, and flat shading.
 
-![Crepe](assets/img/scivis/Cube1.png){: .mx-auto.d-block :}
+![Crepe]({{ '/assets/img/scivis/Cube1.png' | relative_url }}){: .mx-auto.d-block :}
