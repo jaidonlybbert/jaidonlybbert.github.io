@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physically-based Rendering in OpenGL
+title: Scientific Visualization
 subtitle: University of Washington Master's Curriculum
 cover-img: /assets/img/UW-purple.png
 thumbnail-img: /assets/img/MRI-front-to-back.png
