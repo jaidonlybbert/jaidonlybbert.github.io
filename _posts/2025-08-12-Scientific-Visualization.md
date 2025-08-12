@@ -3,7 +3,7 @@ layout: post
 title: Scientific Visualization
 subtitle: University of Washington Master's Curriculum
 cover-img: /assets/img/UW-purple.png
-thumbnail-img: /assets/img/MRI-front-to-back.png
+thumbnail-img: /assets/img/scivis/MRI-front-to-back.png
 share-img: /assets/img/UW-purple.png
 ---
 
